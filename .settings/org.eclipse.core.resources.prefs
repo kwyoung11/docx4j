@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 eclipse.preferences.version=1
 encoding//src/parser/specParser.java=UTF-8
+=======
+#Sat May 12 11:21:19 EST 2012
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/pptx4j/java=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8
+>>>>>>> d9caa74fad65bdc9e870c0d0662e724ef7e2d1d2
